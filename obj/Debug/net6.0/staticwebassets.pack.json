@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\hoctap\\DoAn4\\DoAn4\\wwwroot\\FileUploads\\DefaultImage\\coverPhotoDefault.jpg",
+      "PackagePath": "staticwebassets\\FileUploads\\DefaultImage\\coverPhotoDefault.jpg"
+    },
+    {
+      "Id": "D:\\hoctap\\DoAn4\\DoAn4\\wwwroot\\FileUploads\\DefaultImage\\defaultAvatar.png",
+      "PackagePath": "staticwebassets\\FileUploads\\DefaultImage\\defaultAvatar.png"
+    },
+    {
+      "Id": "D:\\hoctap\\DoAn4\\DoAn4\\wwwroot\\FileUploads\\Images\\9a9afcf9-aee6-4fc4-a0f3-7b4c7d05dda7.jpg",
+      "PackagePath": "staticwebassets\\FileUploads\\Images\\9a9afcf9-aee6-4fc4-a0f3-7b4c7d05dda7.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.DoAn4.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.DoAn4.props",
+      "PackagePath": "build\\DoAn4.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.DoAn4.props",
+      "PackagePath": "buildMultiTargeting\\DoAn4.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.DoAn4.props",
+      "PackagePath": "buildTransitive\\DoAn4.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

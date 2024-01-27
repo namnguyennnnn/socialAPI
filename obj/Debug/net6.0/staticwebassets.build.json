@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "0LTSJs20M1H2OCzq0SCTvPM3e1bxGE4y4PtGgkqNQII=",
+  "Source": "DoAn4",
+  "BasePath": "_content/DoAn4",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DoAn4\\wwwroot",
+      "Source": "DoAn4",
+      "ContentRoot": "D:\\hoctap\\DoAn4\\DoAn4\\wwwroot\\",
+      "BasePath": "_content/DoAn4",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
